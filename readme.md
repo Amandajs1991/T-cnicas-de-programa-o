@@ -1,4 +1,4 @@
-# Perfil dos Desenvolvedores
+# Projeto da Dupla Fantastica
 Repositório para a disciplina de Técnicas de programação Fatec 2° semestre
 ## Integrante 1
 - Nome: Amanda de Jesus
