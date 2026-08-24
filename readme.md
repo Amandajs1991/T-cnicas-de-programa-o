@@ -1,4 +1,4 @@
-# T-cnicas-de-programa-o
+# Perfil dos Desenvolvedores
 Repositório para a disciplina de Técnicas de programação Fatec 2° semestre
 ## Integrante 1
 - Nome: Amanda de Jesus
