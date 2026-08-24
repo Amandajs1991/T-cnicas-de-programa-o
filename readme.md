@@ -7,3 +7,4 @@ Repositório para a disciplina de Técnicas de programação Fatec 2° semestre
 - Nome: Jocimir Araujo
 - Linguagem favorita: JavaScript
 # Perfil Compartilhado do Time
+
